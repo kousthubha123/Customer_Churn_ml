@@ -1,0 +1,5 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment,Churn
+1001,3,2,900,3,4,4,344,Loyal Customers,Active
+1002,10,1,500,1,1,2,112,At Risk,Active
+1003,8,1,450,2,2,1,221,At Risk,Active
+1004,1,1,600,4,3,3,433,Loyal Customers,Active
