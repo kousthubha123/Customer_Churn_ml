@@ -67,6 +67,11 @@ This project helps businesses:
 - Identify customers likely to churn
 - Improve retention strategies
 - Increase revenue through targeted actions
+- ##  Model Performance
+
+- Accuracy: 84%
+- ROC-AUC: 0.88
+- Confusion Matrix included
 ##  How to Run
 ```bash
 pip install -r requirements.txt
