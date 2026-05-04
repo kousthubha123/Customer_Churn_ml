@@ -1,0 +1,5 @@
+CustomerID,Recency,Frequency,Monetary,Churn,Churn_Label
+1001,3,2,900,Active,0
+1002,10,1,500,Churned,1
+1003,8,1,450,Churned,1
+1004,1,1,600,Active,0
