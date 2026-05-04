@@ -43,6 +43,30 @@ This project predicts whether a customer will churn using machine learning model
 - Confusion Matrix
 - ROC Curve
 - Feature Importance Graph
+- ## Visualizations
+
+### RFM Analysis
+![RFM](images/rfm_analysis.png)
+
+### Top Customers by Revenue
+![Revenue](images/revenue_chart.png)
+
+---
+
+##  Business Insights
+
+- Customers with high recency are more likely to churn
+- Loyal customers generate maximum revenue
+- At-risk customers show declining engagement patterns
+
+---
+
+##  Business Impact
+
+This project helps businesses:
+- Identify customers likely to churn
+- Improve retention strategies
+- Increase revenue through targeted actions
 ##  How to Run
 ```bash
 pip install -r requirements.txt
